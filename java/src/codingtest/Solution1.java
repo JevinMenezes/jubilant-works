@@ -1,4 +1,4 @@
-package codingtest;
+
 
 import java.util.Scanner;
 
@@ -11,7 +11,7 @@ public class Solution1 {
         Scanner sc = new Scanner(System.in);
         String input = sc.nextLine();
         input = input.replace("."," ");
-        String[] tokens = input.trim().strip().split("\\s+");
+        String[] tokens = input.trim().split("\\s+");
         String output = "";
         for(int i=0; i < tokens.length; i++ ) {
 

@@ -1,7 +1,7 @@
-package codingtest;
+
 
 /**
- * Merge two soted arrays question withiut using collections of Java
+ * Merge two soted arrays question without using collections of Java
  * Given two sorted arrays as inputs
  * so the output should be a merged sorted array
  */

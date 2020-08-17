@@ -1,4 +1,4 @@
-package codingtest;
+
 
 import java.io.Console;
 import java.util.LinkedHashMap;
