@@ -11,8 +11,8 @@ import java.util.Scanner;
  * Each interaction should be as follows:
  * 8, 5, 4, 1, 3, 4 -----> 6
  * 7, 4, 3, _, 2, 3 -----> 5
- * 5, 2, 1, _, _, 2 -----> 4
- * 4, 1, _, _, _, 1 -----> 3
+ * 5, 2, 1, _, _, 1 -----> 4
+ * 4, 1, _, _, _, _ -----> 3
  * 3, _, _, _, _, _ -----> 1
  * _, _, _, _, _, _ -----> 0
  * so output should be the remainder of elements [6, 5, 4, 3, 1, 0]

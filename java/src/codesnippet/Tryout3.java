@@ -5,16 +5,6 @@ import java.util.Map;
 
 public class Tryout3 {
 
-    /*public class Student {
-        int id;
-        String name;
-    
-        Student(int i, String n) {
-            id = i;
-            name = n;
-        }
-    }*/
-
     public static void main(String[] args) {
         Map<Student, String> m = new HashMap<Student, String>();
         Student a1 = new Student(1, "a");
