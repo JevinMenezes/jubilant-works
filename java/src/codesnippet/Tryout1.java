@@ -1,4 +1,4 @@
-package codesnippet;
+
 
 /**
  * @note Use Java 8 (lambda expressions are used)

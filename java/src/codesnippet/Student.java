@@ -1,4 +1,4 @@
-package codesnippet;
+
 
 public class Student {
     int id;
